@@ -1,3 +1,7 @@
+[![Python Tests](https://github.com/RishitLaddha/session23/actions/workflows/tests.yml/badge.svg)](https://github.com/RishitLaddha/session23/actions/workflows/tests.yml)
+
+<img width="1225" alt="Screenshot 2025-02-19 at 07 18 16" src="https://github.com/user-attachments/assets/af25064f-c7d7-45fa-87b7-d766773dda14" />
+
 
 
 # UserProfileManager System
