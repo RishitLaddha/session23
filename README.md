@@ -1,6 +1,6 @@
 [![Python Tests](https://github.com/RishitLaddha/session23/actions/workflows/tests.yml/badge.svg)](https://github.com/RishitLaddha/session23/actions/workflows/tests.yml)
 
-<img width="1225" alt="Screenshot 2025-02-19 at 07 18 16" src="https://github.com/user-attachments/assets/af25064f-c7d7-45fa-87b7-d766773dda14" />
+<img width="1225" alt="Screenshot 2025-02-19 at 07 19 27" src="https://github.com/user-attachments/assets/ec2b1730-55d0-4af4-bf08-dd473ee0df74" />
 
 
 
